@@ -1,6 +1,6 @@
 Jessica <3 Sagar Tic Tac Toe Game
 
-  o |    |
+  o |  o |
     |    |
 --------------
     |    |
