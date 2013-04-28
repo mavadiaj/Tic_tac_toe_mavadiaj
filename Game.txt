@@ -7,7 +7,7 @@ Jessica <3 Sagar Tic Tac Toe Game
   x |  x |o
 --------------
     |    |
-  o |    |
+  o |  x |
 
     The question is who will win this game??!!
     Okay maybe you are right about tieing the game
